@@ -24,3 +24,29 @@ C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOt
 C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
 C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
 C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAyarlar.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmMain.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiGiris.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiIslem.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.Properties.Resources.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.GenerateResource.Cache
